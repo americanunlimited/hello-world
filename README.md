@@ -1,2 +1,5 @@
 # hello-world
-Original repository
+
+Hello Humans!
+
+Let the Intelligence Explosion begin!
