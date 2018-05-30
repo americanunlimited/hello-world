@@ -1,5 +1,5 @@
 # hello-world
 
-Hello Humans!
+Hello humans!
 
 Let the Intelligence Explosion begin!
